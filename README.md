@@ -1,4 +1,3 @@
-# js-mariacruz
 <!DOCTYPE html>
 <html lang="en">
   <head>
